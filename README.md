@@ -22,6 +22,8 @@
 
 📄 [دانلود سرفصل‌های کامل دوره](https://github.com/YasinSamooei/micropython-course/blob/main/%D8%AF%D9%88%D8%B1%D9%87%20%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86%20-%20%DB%8C%D8%A7%D8%B3%DB%8C%D9%86%20%D8%B3%D9%85%D9%88%D8%B9%DB%8C/%D8%AF%D9%88%D8%B1%D9%87%20%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86%20-%20%D8%B3%D8%B1%D9%81%D8%B5%D9%84%20%D9%87%D8%A7.pdf)
 
+🎥 [مشاهده دوره کامل در آپارات](https://www.aparat.com/playlist/23085445)
+
 ---
 
 ## 🛠 پیش‌نیازها
@@ -33,7 +35,7 @@
 
 ## 📅 زمان برگزاری
 این دوره در **آذر ماه ۱۴۰۴** برگزار شده است.  
-(معادل **November–December 2025** میلادی)
+)
 
 ---
 
@@ -74,6 +76,8 @@ We start from Python basics and gradually move into real-world projects.
 
 📄 [Download Full Course Outline](https://github.com/YasinSamooei/micropython-course/blob/main/%D8%AF%D9%88%D8%B1%D9%87%20%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86%20-%20%DB%8C%D8%A7%D8%B3%DB%8C%D9%86%20%D8%B3%D9%85%D9%88%D8%B9%DB%8C/%D8%AF%D9%88%D8%B1%D9%87%20%D9%85%DB%8C%DA%A9%D8%B1%D9%88%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86%20-%20%D8%B3%D8%B1%D9%81%D8%B5%D9%84%20%D9%87%D8%A7.pdf)
 
+🎥 [Watch Full Course on Aparat](https://www.aparat.com/playlist/23085445)
+
 ---
 
 ## 🛠 Requirements
@@ -84,7 +88,7 @@ We start from Python basics and gradually move into real-world projects.
 ---
 
 ## 📅 Course Date
-This course was held in **Azar 1404 (November–December 2025)**.
+This course was held in **November–December 2025**.
 
 ---
 
